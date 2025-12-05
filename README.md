@@ -9,6 +9,14 @@ Uni project about audio denoising.
 
 Understand the 3 main architectures along with its hiperparameters and 3 main metrics.
 
+Metrics
+SNR PESQ
+STOI?
+verispeak  afdsafojsdauflgf NO
+CSIG
+CBAK
+COVL
+
 
 # Dataset 
 
