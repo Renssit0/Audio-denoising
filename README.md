@@ -6,9 +6,8 @@ Uni project about audio denoising.
 - Dataset ✓
 - Dataset Analysis ✓
 - Dataloader ✓
-- Types of transforms
-- UNet architectures
-- Metrics
+
+Understand the 3 main architectures along with its hiperparameters and 3 main metrics.
 
 
 # Dataset 
@@ -29,8 +28,9 @@ data/
 
 # References
 
-- [Speech Enhancement: A Survey of Approaches and Applications](https://ieeexplore.ieee.org/abstract/document/10212180) - 2023
+
 - [A Comparative Evaluation of Deep Learning Models for Speech Enhancement in Real-World Noisy Environments](https://doi.org/10.48550/arXiv.2506.15000) - 2025
+- [CMGAN: Conformer-Based Metric-GAN for Monaural Speech Enhancement](https://doi.org/10.48550/arXiv.2209.11112) - 2022-2024
 - [Simultaneous Speech Denoising and Super-Resolution Using mGLFB-Based U-Net, Fine-Tuned via Perceptual Loss](https://www.mdpi.com/3474914) - 2025
 
 - [Options for Performing DNN-Based Causal Speech Denoising Using the U-Net Architecture](https://www.mdpi.com/3067016) - 2024
