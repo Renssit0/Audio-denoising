@@ -29,9 +29,7 @@ data/
 ├── clean_testset_wav
 ├── clean_trainset_28spk_wav
 ├── noisy_testset_wav
-├── noisy_trainset_28spk_wav
-├── testset_txt
-└── trainset_28spk_txt
+└── noisy_trainset_28spk_wav
 ```
 
 After which, a script in the ############## will downgrade the sample rate from 48kHz to 16kHz into a `/data_16k` folder

@@ -209,7 +209,9 @@ __marimo__/
 # Data directory 
 /data/*
 !/data/.gitkeep
-/data_16k/
+/data_16k
 
-/model/ 
+/model/
 /history/
+
+/test_samples
